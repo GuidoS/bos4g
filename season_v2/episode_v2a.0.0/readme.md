@@ -1,45 +1,50 @@
-# BOS4G v2a.0.0 - 237 - 
+# BOS4G v2a.0.0 - 237 - New moon on the rise
 
-Welcome to the BOS4G show, it's **DAY** and there are now **NUM** days until the FOSS4G Boston 2017.
+Welcome to the BOS4G show, it's **Tuesday, December 20th** and there are now **237** days until the FOSS4G Boston 2017.
 
-BOS4G is a show about Boston, Open Source, and Geospatial Technology. Guido Stein, your host, shares news, stories, and updates. Guido will also give you updates from the FOSS4G Boston 2017 Local Organizing Comittee, of which he is Co-Chair.
+BOS4G is a show about Boston, Open Source, Geospatial Technology and the communities that make them awesome. Guido Stein, your host, shares news, stories, interviews, and updates. Guido will also give you updates from the FOSS4G Boston 2017 Local Organizing Committee, of which he is Co-Chair.
 
-**DISCLAIMER** This is a personal project. The opinions expressed here represent my own and not those of my employer or other affliated organizations. In addition, my thoughts and opinions change from time to time. I consider this a necessary consequence of having an open mind.
+**DISCLAIMER** This is a personal project. The opinions expressed here represent my own and not those of my employer or other affiliated organizations. In addition, my thoughts and opinions change from time to time. I consider this a necessary consequence of having an open mind.
 
-## Boston
+## Coming Up
 
-- ?
+- review/coverage of Events I get the pleasure to attend
 
-## Geospatial
+  - [FOSS4G 2016](http://2016.foss4g.org/home.html) (Last August)
+  - [SXSW](https://www.sxsw.com) (March 10)?maybe I get to go?
+  - [Libre Planet 2017](https://libreplanet.org/2017) (March 25)
+  - [Transportation Camp](http://transportationcamp.org) (April ??)
+  - [Open Viz Conf 2017](https://openvisconf.com/#register) (April 24)?maybe I get to go?
+  - [OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx) (May 10)?maybe I get to go?
+  - [FME User Conference](https://fmeuc.com) (May 28)
 
-- ?
+- I will try to get interviews from:
 
-## Free and Open Source
+  - Bocoup
+  - SkyHook
+  - Code For America
+  - Paragon
+  - MassIT
+  - anyone who is coming to FOSS4G Boston 2017
+  - Carto
+  - FSF
+  - Red Hat
 
-- ?
+- I will continue to share the process of putting on a interational Free and Open Source Conference
 
-## LOC
+  - just announced on the website stallman
+  - how to talk to the community
+  - how to know when you need help and get it
+  - how to talk people into supporting as sponsors and atenddees
+  - how to build adoption
 
-- ?
+- and there is other and my stuff
 
-## Other Stuff
-
-- ?
-
-### Top of the search #geospatial
-
-- ?
-
-## My Stuff
-
-- getting area from the command line
-
-  - ogrinfo
-  - [Sara's awesome tutorial](http://www.sarasafavi.com/intro-to-ogr-part-i-exploring-data.html)
-
-## Upcoming Events
-
-- ## Boston Links
+  - notes from the newb corner
+  - other fun projects I am interational
+  - hacking my workflow
+  - what fun it is working with Oracle and other stories of perseverience
+  - finding the spell check
 
 ### Groups
 
