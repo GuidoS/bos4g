@@ -20,7 +20,7 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
   03/10/2017
 
-  - [SXSW](https://www.sxsw.com) (March 10)
+  - [SXSW](https://www.sxsw.com)
 
   03/25/2017
 
@@ -40,7 +40,7 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
   05/28/2017
 
-  - [FME User Conference](https://fmeuc.com) (May 28)
+  - [FME User Conference](https://fmeuc.com)
 
   08/14/2017
 
