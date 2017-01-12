@@ -16,7 +16,7 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
   02/22/2017
 
-  - [NCIS2017](http://ncgisconference.com)
+  - [NCGIS2017](http://ncgisconference.com)
 
   03/10/2017
 
@@ -30,13 +30,17 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
   - [Transportation Camp](http://transportationcamp.org)
 
-  05/24/2017
+  05/02/2017
 
-  - [Open Viz Conf 2017](https://openvisconf.com/#register)
+  - [Red Hat Summit](https://www.redhat.com/en/summit/2017)
 
   05/10/2017
 
   - [OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
+
+  05/24/2017
+
+  - [Open Viz Conf 2017](https://openvisconf.com/#register)
 
   05/28/2017
 
@@ -48,22 +52,22 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
 - I will try to get interviews with:
 
-  - Bocoup
-  - SkyHook
-  - Code For America
-  - Paragon
-  - MassIT
-  - anyone who is coming to FOSS4G Boston 2017
-  - Carto
-  - FSF
-  - Red Hat
+  - [Bocoup](https://bocoup.com)
+  - [SkyHook](http://www.skyhookwireless.com)
+  - [Code For America](http://www.codeforboston.org)
+  - [Paragon](http://www.paragoncorporation.com/rates)
+  - [MassIT](http://www.mass.gov/anf/research-and-tech/oversight-agencies/itd)
+  - [Carto](https://carto.com)
+  - [FSF](http://www.fsf.org)
+  - [Red Hat](https://www.redhat.com)
+  - anyone willing to talk to me about FOSS4G Boston 2017
 
-- I will continue to share the process of putting on a interational Free and Open Source Conference
+- I will continue to share the process of putting on a international Free and Open Source Conference
 
   - just announced on the website stallman
   - how to talk to the community
   - how to know when you need help and get it
-  - how to talk people into supporting as sponsors and atenddees
+  - how to talk people into supporting as sponsors and atendees
   - how to build adoption
 
 - and there is other and my stuff
