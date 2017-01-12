@@ -102,9 +102,8 @@ Links for the show:
 - [bos4g.com](http://bos4g.com)
 - [podcast rss feed](http://feeds.soundcloud.com/users/soundcloud:users:208014781/sounds.rss)
 - [youtube channel](https://www.youtube.com/channel/UCZaniYbhIE23wmZU48-XgQg)
-- [twitter](http://www.twitter.com/bos4g)
+- [twitter](http://www.twitter.com/guidos)
 - [reddit](https://www.reddit.com/r/bos4g)
-- info-at-avidgeo.com
 
 ## Thank you
 

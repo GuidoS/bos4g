@@ -1,45 +1,20 @@
-# BOS4G v2a.0.0 - 237 - 
+# BOS4G v2.#.0 - ### -
 
 Welcome to the BOS4G show, it's **DAY** and there are now **NUM** days until the FOSS4G Boston 2017.
 
-BOS4G is a show about Boston, Open Source, and Geospatial Technology. Guido Stein, your host, shares news, stories, and updates. Guido will also give you updates from the FOSS4G Boston 2017 Local Organizing Comittee, of which he is Co-Chair.
+BOS4G is a show about Boston, Open Source, and Geospatial Technology. Hi, I'm Guido your host. I will try to make these shows entertaining and educational. I will also give you updates from the trenches of the FOSS4G Boston 2017 Local Organizing Committee, of which I am Co-Chair.
 
-**DISCLAIMER** This is a personal project. The opinions expressed here represent my own and not those of my employer or other affliated organizations. In addition, my thoughts and opinions change from time to time. I consider this a necessary consequence of having an open mind.
+**DISCLAIMER** This is a personal project. The opinions expressed here represent my own and not those of my employer or other affiliated organizations. In addition, my thoughts and opinions change from time to time. I consider this a necessary consequence of having an open mind.
 
-## Boston
-
-- ?
-
-## Geospatial
-
-- ?
-
-## Free and Open Source
-
-- ?
-
-## LOC
-
-- ?
-
-## Other Stuff
-
-- ?
-
-### Top of the search #geospatial
-
-- ?
-
-## My Stuff
-
-- getting area from the command line
-
-  - ogrinfo
-  - [Sara's awesome tutorial](http://www.sarasafavi.com/intro-to-ogr-part-i-exploring-data.html)
+## Potential topics
+  - Boston
+  - Geospatial
+  - Free and Open Source
+  - LOC
+  - Breaking News and Tools
+  - My Stuff
 
 ## Upcoming Events
-
-- ## Boston Links
 
 ### Groups
 
@@ -65,9 +40,8 @@ Links for the show:
 - [bos4g.com](http://bos4g.com)
 - [podcast rss feed](http://feeds.soundcloud.com/users/soundcloud:users:208014781/sounds.rss)
 - [youtube channel](https://www.youtube.com/channel/UCZaniYbhIE23wmZU48-XgQg)
-- [twitter](http://www.twitter.com/bos4g)
+- [twitter](http://www.twitter.com/guidos)
 - [reddit](https://www.reddit.com/r/bos4g)
-- info-at-avidgeo.com
 
 ## Thank you
 
