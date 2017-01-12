@@ -11,18 +11,40 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 - review/coverage of Events I get the pleasure to attend
 
   08/24/2016
+
   - [FOSS4G Bonn 2016](http://2016.foss4g.org)
-    
+
   02/22/2017
+
   - [NCIS2017](http://ncgisconference.com)
-  
-  - 03/10/2017 [SXSW](https://www.sxsw.com) (March 10)
-  - 03/25/2017[Libre Planet 2017](https://libreplanet.org/2017)
-  - 04/??/2017[Transportation Camp](http://transportationcamp.org)
-  - 05/24/2017 [Open Viz Conf 2017](https://openvisconf.com/#register)
-  - 05/10/2017 [OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
-  - 05/28/2017 [FME User Conference](https://fmeuc.com) (May 28)
-  - 08/14/2017 [FOSS4G Boston 2017](http://2017.foss4g.org/)
+
+  03/10/2017
+
+  - [SXSW](https://www.sxsw.com) (March 10)
+
+  03/25/2017
+
+  - [Libre Planet 2017](https://libreplanet.org/2017)
+
+  04/??/2017
+
+  - [Transportation Camp](http://transportationcamp.org)
+
+  05/24/2017
+
+  - [Open Viz Conf 2017](https://openvisconf.com/#register)
+
+  05/10/2017
+
+  - [OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
+
+  05/28/2017
+
+  - [FME User Conference](https://fmeuc.com) (May 28)
+
+  08/14/2017
+
+  - [FOSS4G Boston 2017](http://2017.foss4g.org/)
 
 - I will try to get interviews from:
 
