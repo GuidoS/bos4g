@@ -10,8 +10,12 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
 - review/coverage of Events I get the pleasure to attend
 
-  - 08/24/2016 [FOSS4G Bonn 2016](http://2016.foss4g.org)
-  - 02/22/2017 [NCIS2017](http://ncgisconference.com)
+  08/24/2016
+  [FOSS4G Bonn 2016](http://2016.foss4g.org)
+    
+  02/22/2017
+  [NCIS2017](http://ncgisconference.com)
+  
   - 03/10/2017 [SXSW](https://www.sxsw.com) (March 10)
   - 03/25/2017[Libre Planet 2017](https://libreplanet.org/2017)
   - 04/??/2017[Transportation Camp](http://transportationcamp.org)
