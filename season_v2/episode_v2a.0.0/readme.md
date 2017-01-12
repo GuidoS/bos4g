@@ -1,6 +1,6 @@
-# BOS4G v2a.0.0 - 237 - New moon on the rise
+# BOS4G v2.0.0 - 214 - Soft Launch (season 2 preview)
 
-Welcome to the BOS4G show, it's **Tuesday, December 20th** and there are now **237** days until the FOSS4G Boston 2017.
+Welcome to the BOS4G show, it's **Thursday, January 12th** and there are now **214** days until FOSS4G Boston 2017 begins.
 
 BOS4G is a show about Boston, Open Source, Geospatial Technology and the communities that make them awesome. Guido Stein, your host, shares news, stories, interviews, and updates. Guido will also give you updates from the FOSS4G Boston 2017 Local Organizing Committee, of which he is Co-Chair.
 
@@ -46,7 +46,7 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 
   - [FOSS4G Boston 2017](http://2017.foss4g.org/)
 
-- I will try to get interviews from:
+- I will try to get interviews with:
 
   - Bocoup
   - SkyHook
@@ -77,9 +77,9 @@ BOS4G is a show about Boston, Open Source, Geospatial Technology and the communi
 ### Groups
 
 - [AvidGeo](http://www.avidgeo.com) (Geospatial Tech Meetup)
+- [FOSS4G Boston 2017](http://2017.foss4g.org) (FOSS for Geospatial Conference)
 - [MapTime Boston](http://www.meetup.com/Maptime-Boston) (Web and Map Tutorials Geospatial Meetup)
 - [OSM Boston](http://www.meetup.com/OpenStreetMap-Boston) (OpenStreetMap Meetup)
-- [FOSS4G Boston 2017](http://2017.foss4g.org) (FOSS for Geospatial Conference)
 
 ### Organizations
 
