@@ -16,6 +16,21 @@ BOS4G is a show about Boston, Open Source, and Geospatial Technology. Hi, I'm Gu
 
 ## Upcoming Events
 
+- 02/22/2017 - [NCGIS2017](http://ncgisconference.com)
+- 03/10/2017 - [SXSW](https://www.sxsw.com)
+- 03/25/2017 - [Libre Planet 2017](https://libreplanet.org/2017)
+- 03/28/2017 - [PGConf US 2017](http://www.pgconf.us/conferences/2017)
+- 04/??/2017 - [Transportation Camp](http://transportationcamp.org)
+- 04/03/2017 - [URISA Leadership Academy CA](http://www.urisa.org/education-events/urisa-leadership-academy/)
+- 05/02/2017 - [Red Hat Summit](https://www.redhat.com/en/summit/2017)
+- 05/10/2017 - [OSCON Austin](http://conferences.oreilly.com/oscon/oscon-tx)
+- 05/22/2017 - [CalGIS/LocationCon 2017](https://calgis2017.locationcon.org/)
+- 05/24/2017 - [Open Viz Conf 2017](https://openvisconf.com/#register)
+- 05/28/2017 - [FME User Conference](https://fmeuc.com)
+- 07/24/2017 - [URISA Leadership Academy RI](http://www.urisa.org/education-events/urisa-leadership-academy/)
+- 08/14/2017 - [FOSS4G Boston 2017](http://2017.foss4g.org/)
+- 10/23/2017 - [URISA GIS-Pro](http://www.urisa.org/education-events/gis-pro-2017/)
+
 ### Groups
 
 - [AvidGeo](http://www.avidgeo.com) (Geospatial Tech Meetup)
