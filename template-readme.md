@@ -16,7 +16,8 @@ BOS4G is a show about Boston, Open Source, and Geospatial Technology. Hi, I'm Gu
 
 ## Upcoming Events
 
-<iframe width='100%' height='520' frameborder='0' src='events.html' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+[event map](event.html)
+
 
 - 02/22/2017 - [NCGIS2017](http://ncgisconference.com)
 - 03/10/2017 - [SXSW](https://www.sxsw.com)
